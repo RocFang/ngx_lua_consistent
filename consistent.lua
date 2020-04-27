@@ -6,7 +6,7 @@
 do
 	-- virtual nodes number
 	local VIRTUAL_COUNT = 160;
-	-- sharding vaitual nodes number
+	-- sharding virtual nodes number
 	local CONSISTENT_BUCKETS = 1024;
 	-- the table of virtual nodes
 	local VIRTUAL_NODE = {};
